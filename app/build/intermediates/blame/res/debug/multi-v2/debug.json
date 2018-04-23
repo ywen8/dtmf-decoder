@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\yw\\workspace\\dtmf-decoder(Android)\\app\\build\\intermediates\\res\\merged\\debug\\values-pl_values-pl.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\yw\\workspace\\dtmf-decoder(Android)\\app\\src\\main\\res\\values-pl\\strings.xml",
+                    "from": {
+                        "startLines": "8,10,2,5,9,6,7,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "308,426,55,183,354,223,268,105,145",
+                        "endColumns": "45,201,49,39,71,44,39,39,37",
+                        "endOffsets": "349,623,100,218,421,263,303,140,178"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,101,303,353,393,465,510,550,590",
+                        "endColumns": "45,201,49,39,71,44,39,39,37",
+                        "endOffsets": "96,298,348,388,460,505,545,585,623"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\yw\\workspace\\dtmf-decoder(Android)\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\yw\\workspace\\dtmf-decoder(Android)\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "9,11,3,6,10,2,7,8,4,5",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "372,471,122,250,412,55,290,334,172,212",
+                        "endColumns": "39,189,49,39,58,66,43,37,39,37",
+                        "endOffsets": "407,656,167,285,466,117,329,367,207,245"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,95,285,335,375,434,501,545,583,623",
+                        "endColumns": "39,189,49,39,58,66,43,37,39,37",
+                        "endOffsets": "90,280,330,370,429,496,540,578,618,656"
+                    }
+                }
+            ]
+        }
+    ]
+}

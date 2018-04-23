@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\yw\\workspace\\dtmf-decoder(Android)\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pl\\values-pl.xml",
+            "map": [
+                {
+                    "source": "D:\\yw\\workspace\\dtmf-decoder(Android)\\app\\src\\main\\res\\values-pl\\strings.xml",
+                    "from": {
+                        "startLines": "8,10,2,5,9,6,7,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "308,426,55,183,354,223,268,105,145",
+                        "endColumns": "45,201,49,39,71,44,39,39,37",
+                        "endOffsets": "349,623,100,218,421,263,303,140,178"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,101,303,353,393,465,510,550,590",
+                        "endColumns": "45,201,49,39,71,44,39,39,37",
+                        "endOffsets": "96,298,348,388,460,505,545,585,623"
+                    }
+                }
+            ]
+        }
+    ]
+}
